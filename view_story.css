@@ -1,0 +1,25 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+.main {
+    padding: 10px;
+    border: 5px rgb(10, 50, 100) double;
+    margin:auto;
+    width:50%;
+}
+
+.comment_panel {
+
+    padding: 10px;
+    border: 3px rgb(10, 50, 100) solid;
+    
+    width:50%;
+
+}
+
+.comment_text {
+    color: rgb(100, 100, 100);
+}
